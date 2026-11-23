@@ -47,4 +47,3 @@ int main()
 
     return 0;
 }
-# DAA-PRACTICAL_8
